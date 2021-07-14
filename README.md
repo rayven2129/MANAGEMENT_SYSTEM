@@ -1,2 +1,2 @@
-# WEBSHOP
-A full stack features of web based online shopping system
+# MANAGEMENT_SYSTEM
+A full stack features of web-based management_system for managing materials and exporting data
